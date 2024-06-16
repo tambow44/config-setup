@@ -73,6 +73,9 @@
         ```
 
 10. vlc
+
    i. minidlna not working with openbsd port or pkg
-11. xenodm
-   ii. `/etc/X11/xenodm`
+
+12. xenodm
+
+   i. `/etc/X11/xenodm`
