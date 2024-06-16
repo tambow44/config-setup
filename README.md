@@ -13,6 +13,7 @@
     ii. `chmod 755 /var/transmission/Downloads`
 
     iii. `ln -s /var/transmission/Downloads ~/Downloads`
+   
 7. gh
 8. go
 9. node, npm, nvm
@@ -38,6 +39,7 @@
     iv: menulibre | config
 
         > Install: `pkg_add menulibre`
+   
 3. Games
 
     i. Gameboy
@@ -61,9 +63,9 @@
         ```
 
 5. firefox
-7. thunderbird
-8. ungoogled chromium (work)
-9. wifi (ie bwfmm0)
+6. thunderbird
+7. ungoogled chromium (work)
+8. wifi (ie bwfmm0)
     
     i. `/etc/hostname.bwfm0` :
    
@@ -72,10 +74,12 @@
         dhcp
         ```
 
-10. vlc
+9. vlc
 
    i. minidlna not working with openbsd port or pkg
 
-12. xenodm
+10. xenodm
 
    i. `/etc/X11/xenodm`
+
+
