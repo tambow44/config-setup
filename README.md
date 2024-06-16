@@ -71,3 +71,6 @@
         join "Flute Systems" wpakey "Team Wizard!" 
         dhcp
         ```
+
+10. vlc
+   i. minidlna not working with openbsd port or pkg
