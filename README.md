@@ -30,6 +30,7 @@
     i. Gameboy
         > Install: pkg_add mgba mgba-qt sameboy # find ROMs
     ii. Others
+   
         ```
         0ad
         0ad-data
@@ -43,10 +44,10 @@
         supertux
         supertuxkart
         ```
-3. firefox
-4. thunderbird
-5. ungoogled chromium (work)
-6. wifi (ie bwfmm0)
+4. firefox
+5. thunderbird
+6. ungoogled chromium (work)
+7. wifi (ie bwfmm0)
     i. /etc/hostname.bwfm0 :
         ```
         join "Flute Systems" wpakey "Team Wizard!" 
